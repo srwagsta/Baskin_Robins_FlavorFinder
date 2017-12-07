@@ -1,0 +1,72 @@
+Berry/Cherries
+	Cherries Jubilee Ice Cream
+	Strawberry Cheesecake Ice Cream
+	Very Berry Strawberry Ice Cream
+
+Cake
+	Icing On The Cake®  Ice Cream
+	New York Cheesecake Ice Cream
+	Oreo® Cheesecake Ice Cream
+
+Chocolate
+	Chocolate Almond Ice Cream
+	Chocolate Chip Cookie Dough Ice Cream
+	Chocolate Chip Ice Cream
+	Chocolate Fudge Ice Cream
+	Chocolate Ice Cream
+	Chocolate Mousse Royale Ice Cream
+	German Chocolate Cake Ice Cream
+	Winter White Chocolate® Ice Cream
+	World Class® Chocolate Ice Cream
+
+Cookies
+	Oreo® Cookies 'N Cream Ice Cream
+
+Lemon
+	Lemon Custard Ice Cream
+
+Mint
+	York® Peppermint Pattie Ice Cream
+	Mint Chocolate Chip Ice Cream
+	Peppermint Ice Cream
+
+Nut/Almond/Pecan
+	Baseball Nut® Ice Cream
+	Black Walnut Ice Cream
+	Jamoca® Almond Fudge Ice Cream
+	Macadamia Nuts 'N Cream Ice Cream
+	No Sugar Added Peanut Buttery Bar Blast Ice Cream
+	Nutty Coconut Ice Cream
+	Old Fashioned Butter Pecan Ice Cream
+	Peanut Butter 'N Chocolate Ice Cream
+	Pistachio Almond Ice Cream
+	Premium Churned Reduced-Fat, No Sugar Added Pineapple Coconut Ice Cream
+	Reese'S® Peanut Butter Cup Ice Cream
+
+Other
+	Cotton Candy Ice Cream
+	Creole Cream Cheese Ice Cream
+	Daiquiri Ice
+	Egg Nog Ice Cream
+	Gold Medal Ribbon® Ice Cream
+	Green Tea Ice Cream
+	Jamoca® Ice Cream
+	Made With Snickers® Ice Cream
+	Maui Brownie Madness® Frozen Yogurt
+	Miami Vice Sorbet
+	Pink Bubblegum Ice Cream
+	Pralines 'N Cream Ice Cream
+	Premium Churned Reduced-Fat, No Sugar Added Caramel Turtle Truffle Ice Cream
+	Quarterback Crunch® Ice Cream
+	Rocky Road Ice Cream
+	Rum Raisin Ice Cream
+
+Sherbet
+	Rainbow Sherbet
+	Wild ‘N Reckless Sherbet
+
+Vanilla
+	Fat-Free Vanilla Frozen Yogurt
+	French Vanilla Ice Cream
+	Vanilla Ice Cream
+
