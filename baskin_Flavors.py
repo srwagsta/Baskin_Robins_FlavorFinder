@@ -41,16 +41,23 @@ for flavor in flavors_arr:
 for key in d:
     sorted(d[key])
 try:
-    f = open('out.txt', 'w')
-    for list in INDEX_KEY:  # because we use the INDEX_KEY it preserves the order
+    f = open('flavors.txt', 'w')
+    f.write('Notation Key: \n')
+    for note in INDEX_KEY:
+        f.write(''.join(list(note)[:3]))
+        f.write('\n')
+    f.write('\n************* Ice Cream!!! *************\n')
+    for list in INDEX_KEY:
+    # because we use the INDEX_KEY it preserves the order
         output = list + '\n'
         f.write(output.title())
         for value in d[list]:
             output = '\t'+value + '\n'
             f.write(output.title())
         f.write('\n')
-except Exception:
-    print('Error caught') # none of this code should actually throw an error so
+except:
+    print ("Unexpected error:")
+    # none of this code should actually throw an error so
     # there is no need for a fancy catch
 finally:
     f.close()
