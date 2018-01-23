@@ -1,0 +1,3 @@
+Client_key: ef90dce612d2577fd86eba4e333a1e98ebe15c5c3c8d41dd61392091d45e9f5f
+
+Client_secret: 7b9129eb9dcf1c55ee52ca58417f951e4652b8a5a6a28d0e4c630458db2db0c1
